@@ -15,7 +15,7 @@ Bu mod pvz nin yılbaşı ile buluşmuş halidir. Şimdilik test sürümünde, y
 ## 🛠️ Nasıl Kurulur ve Oynanır?
 1. Sağ taraftaki **Releases** (Sürümler) bölümünden yada  aşağıdaki linkteki `.zip` dosyasını bilgisayarınıza indirin.
 2. İndirdiğiniz zip dosyasını klasöre çıkartın.
-3. Klasörün içindeki `PlantsVsZombies.exe` dosyasına çift tıklayarak direkt oynayabilirsiniz!
+3. Klasörün içindeki `PlantsVsZombies karlı bahçe test sürümü.exe` dosyasına çift tıklayarak direkt oynayabilirsiniz!
 
 ## 💬 Geri Bildirim ve İstekleriniz
 Oyun içinde bir hata (bug) bulursanız veya *"Şu bitki/zombi de kış temalı olsun"* dediğiniz fikirleriniz varsa lütfen bana TikTok üzerinden iletin! Hepsini okuyup modu beraber geliştireceğiz.
